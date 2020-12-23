@@ -775,6 +775,10 @@ html {
     order: 1;
     margin-top: 3rem;
   }
+
+  .logo {
+    width: 500px
+  }
 }
 
 @media (max-width: 700px) {
@@ -798,6 +802,10 @@ html {
   .submit-btn {
     width: 35rem;
   }
+
+  .logo {
+    width: 350px
+  }
 }
 
 @media (max-width: 500px) {
@@ -820,6 +828,10 @@ html {
 
   .footer {
     height: 18rem;
+  }
+
+  .logo {
+    width: 300px
   }
 }
 
